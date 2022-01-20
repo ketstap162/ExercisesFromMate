@@ -1,0 +1,11 @@
+print('********* Start of programm *********')
+
+# <<Function>>
+
+menuPoint=1
+while menuPoint!='0':
+
+    # <<Use Funtion>>
+
+    menuPoint=input('Type something for continue. Type 0 for Exit.\n')
+SystemExit
